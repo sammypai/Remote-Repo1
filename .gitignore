@@ -1,0 +1,5 @@
+
+#This is a file you create manually and insert all the file you don't want to be checked out so other people can see these files once the local repo is checked out
+
+*.sh		#Using wild-Card
+sam.txt		#Inserting Normal text file

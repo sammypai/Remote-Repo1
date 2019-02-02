@@ -1,0 +1,20 @@
+Filesystem             Size  Used Avail Use% Mounted on
+/dev/mapper/rhel-root   50G  2.4G   48G   5% /
+devtmpfs               3.8G     0  3.8G   0% /dev
+tmpfs                  3.8G     0  3.8G   0% /dev/shm
+tmpfs                  3.8G   33M  3.7G   1% /run
+tmpfs                  3.8G     0  3.8G   0% /sys/fs/cgroup
+/dev/sda2             1014M  168M  847M  17% /boot
+/dev/sda1              200M  9.6M  191M   5% /boot/efi
+/dev/mapper/rhel-home  240G   33M  240G   1% /home
+tmpfs                  763M     0  763M   0% /run/user/1000
+Filesystem             Size  Used Avail Use% Mounted on
+/dev/mapper/rhel-root   50G  2.4G   48G   5% /
+devtmpfs               3.8G     0  3.8G   0% /dev
+tmpfs                  3.8G     0  3.8G   0% /dev/shm
+tmpfs                  3.8G   33M  3.7G   1% /run
+tmpfs                  3.8G     0  3.8G   0% /sys/fs/cgroup
+/dev/sda2             1014M  168M  847M  17% /boot
+/dev/sda1              200M  9.6M  191M   5% /boot/efi
+/dev/mapper/rhel-home  240G   33M  240G   1% /home
+tmpfs                  763M     0  763M   0% /run/user/1000
